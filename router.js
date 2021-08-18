@@ -1,6 +1,6 @@
 /**
- * Router - v1.0
- * Copyright 2018 Abel Brencsan
+ * Router - v1.1.0
+ * Copyright 2021 Abel Brencsan
  * Released under the MIT License
  */
 
